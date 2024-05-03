@@ -1,4 +1,4 @@
-# wriTonics
+# WriTonics
 Contains WriTonics Releases.
 
 wriTonics is part of tonics application suite that is specifically suited for blogging, you get the following modules by default
